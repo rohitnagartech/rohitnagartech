@@ -1,5 +1,114 @@
-# 💫 About Me:
-Rohit Nagar<br>Student Placement Coordinator (SPC) | Creative Android Developer<br>| Graphic Designer ️ | App Innovator | Skilled in Android, Java, C,<br>SQL, Firebase | Passionate About Building Tech-Driven Brands<br>Indore, Madhya Pradesh, India<br>Summary<br>As a versatile creative professional, I thrive at the intersection of<br>design, technology, and digital strategy. My journey began with a<br>passion for graphic design, which evolved into video editing, app<br>development, and social media management-equipping me with<br>a powerful, cross-functional skillset to deliver end-to-end digital<br>solutions.<br>What sets me apart is my ability to blend visual creativity with<br>technical execution, making ideas not just look great but work<br>seamlessly.<br>Skills & Expertise<br>Graphic Design<br>• Proficient in Adobe Creative Suite (Photoshop, Illustrator), and<br>Canva<br>• Strong sense of branding, composition, and user-centric visuals<br>Video Editing<br>• Skilled in Adobe Premiere Pro and CapCut Pro<br>• Specialize in creating dynamic, storytelling-driven content for social<br>media and campaigns<br>App Development<br>• Android development with modern UI/UX focus<br>• Experience using Firebase, XML, Java<br>Social Media Management<br>• Strategy building, content creation, and audience engagement<br>• Boosted online visibility for brands through creative campaigns<br>Let’s Connect<br> Page 1 of 4<br>  <br>I'm always open to collaborations, freelance projects, or full-time<br>opportunities in the fields of design, tech, or digital marketing.<br>Whether you need:<br>✔️ A designer to craft eye-catching visuals<br>✔️ A video editor to turn footage into compelling stories<br>✔️ An app developer to build your next idea<br>✔️ A social media strategist to grow your online brand<br>Feel free to connect or message me - let’s create something<br>impactful together!<br>Experience<br>Medicaps University<br>Student Placement Coordinator<br>August 2025 - Present (5 months)<br>Indore, Madhya Pradesh, India<br>Managed and streamlined MCA department placement activities, acting as the<br>key coordinator to ensure seamless interaction among students, companies,<br>and the Placement Cell.<br>Successfully organized and executed campus placement drives, while<br>providing essential guidance and timely updates to students during the entire<br>placement process.<br>Freelance<br>Freelance Graphic Designer | Logo & Visual Identity Creator<br>January 2023 - Present (3 years)<br>As a freelance graphic designer, I have worked with a variety of clients<br>including commercial vehicle providers, tour & travel companies, and small<br>businesses to build their visual identity through creative logo design and brand<br>styling.<br>Key Contributions:<br>• Designed modern, clean, and professional logos and brand assets tailored to<br>client industry and audience.<br>• Delivered customized branding solutions that supported both digital and print<br>media.<br> Page 2 of 4<br>  <br>GitHub Portfolio : https://github.com/rohitnagartech/graphic-design-portfolio/<br>tree/main<br>Freelance<br>Freelance Android Developer | App Designer & Business Solution<br>Creator<br>June 2022 - Present (3 years 7 months)<br>As a freelance Android developer, I design and build high-quality, user-friendly<br>mobile applications that solve real-world problems. I’ve worked with clients<br>across industries and have also developed personal projects to showcase<br>innovation and usability.<br>Key Projects:<br>• Business Utility Apps – Developed tools for travel agencies, local businesses,<br>and service providers.<br>• Educational & Blogging Apps – Created apps focused on learning, coding,<br>and tech blogging.<br>• Firebase-Integrated Apps – Implemented secure authentication, real-time<br>databases, storage, and push notifications.<br>• UI/UX Excellence – Built sleek, intuitive interfaces using Material Design<br>principles in Android Studio.<br>Technologies Used:<br>Kotlin · Java · XML · Firebase · Android Studio · REST API · Figma (for UI/UX)<br>· GitHub<br>Skills Developed:<br>Mobile App Development · Problem Solving · API Integration · App<br>Monetization · App Deployment · Client Communication · Firebase<br>Management · UI/UX Optimization<br>Explore My Work:<br>GitHub Portfolio : https://github.com/rohitnagartech<br>CodSoft<br>Java Programming Intern<br>July 2025 - August 2025 (2 months)<br>Remote (Virtual Internship)<br>Completed a 4-week virtual internship focused on Java programming. Worked<br>on hands-on projects and tasks designed to deepen understanding of Java<br> Page 3 of 4<br>  <br>fundamentals, object-oriented programming, and real-world application<br>development. Followed industry practices and delivered tasks with a focus<br>on clean, maintainable code. Gained exposure to remote collaboration and<br>technical communication in a professional environment.<br>Education<br>Medicaps University<br>Master of Computer Applications - MCA, Computer Software<br>Engineering · (August 2024)<br>Vikram University, Ujjain<br>BCA, Computer Science · (August 2021 - May 2024)
+# 👋 Hi, I’m Rohit Nagar
+
+🎓 **MCA Student | Student Placement Coordinator (SPC)**  
+📍 Indore, Madhya Pradesh, India  
+
+I’m a **creative Android developer and graphic designer** who thrives at the intersection of **design, technology, and real-world problem solving**. With 3+ years of freelance experience, I build solutions that are not only visually appealing but also technically robust and user-focused.
+
+---
+
+## 🚀 About Me
+
+My journey began with **graphic design**, evolved into **video editing and social media strategy**, and matured into **Android application development**. This cross-functional background allows me to deliver **end-to-end digital solutions**—from idea and UI/UX to development and deployment.
+
+What sets me apart is my ability to **blend creativity with clean technical execution**, ensuring products look great and work seamlessly.
+
+---
+
+## 🧠 Skills & Expertise
+
+### 🎨 Graphic Design
+- Adobe Photoshop, Illustrator, Canva  
+- Logo design, brand identity, and visual storytelling  
+- User-centric and market-aligned designs  
+
+### 🎬 Video Editing
+- Adobe Premiere Pro, CapCut Pro  
+- Short-form and campaign-focused content  
+- Storytelling-driven social media visuals  
+
+### 📱 Android App Development
+- Java, Kotlin, XML  
+- Firebase (Auth, Realtime DB, Firestore, Storage, Notifications)  
+- Material Design & modern UI/UX principles  
+- REST API integration  
+
+### 📊 Social Media Management
+- Content strategy & creative campaigns  
+- Brand visibility and audience engagement  
+- Cross-platform optimization  
+
+---
+
+## 💼 Experience
+
+### 🏫 Medicaps University  
+**Student Placement Coordinator (SPC)**  
+*Aug 2025 – Present | Indore*  
+- Coordinating MCA department placement activities  
+- Acting as a bridge between students, companies, and placement cell  
+- Organizing placement drives and guiding students throughout the process  
+
+---
+
+### 🎨 Freelance Graphic Designer  
+*Jan 2023 – Present*  
+- Designed logos and brand identities for travel, vehicle services, and small businesses  
+- Delivered custom branding for both digital and print platforms  
+- Focused on clean, modern, and professional design systems  
+
+🔗 **Portfolio:**  
+[Graphic Design GitHub Portfolio](https://github.com/rohitnagartech/graphic-design-portfolio)
+
+---
+
+### 📱 Freelance Android Developer  
+*Jun 2022 – Present*  
+- Built business utility, educational, and blogging apps  
+- Integrated Firebase authentication, databases, and notifications  
+- Designed intuitive UI using Material Design  
+
+**Technologies:**  
+`Java` · `Kotlin` · `XML` · `Firebase` · `Android Studio` · `REST API` · `Figma`
+
+🔗 **Explore Projects:**  
+[GitHub Profile](https://github.com/rohitnagartech)
+
+---
+
+### ☕ CodSoft  
+**Java Programming Intern**  
+*Jul 2025 – Aug 2025 | Remote*  
+- Hands-on experience with Java and OOP concepts  
+- Built real-world tasks with clean, maintainable code  
+- Learned remote collaboration and professional communication  
+
+---
+
+## 🎓 Education
+
+- **Master of Computer Applications (MCA)**  
+  Medicaps University | Aug 2024 – Present  
+
+- **Bachelor of Computer Applications (BCA)**  
+  Vikram University, Ujjain | Aug 2021 – May 2024  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to:
+- Freelance & collaboration projects  
+- Android app development  
+- Graphic design & branding work  
+- Full-time roles in tech or digital domains  
+
+📩 Feel free to connect or message me —  
+**Let’s build something impactful together!**
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*  
 
 
 ## 🌐 Socials:
